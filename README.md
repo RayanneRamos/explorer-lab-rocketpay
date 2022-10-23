@@ -20,7 +20,7 @@
   - [x] Explorer Lab Aula 02 - Profissionanlizando seu projeto
   - [x] Explorer Lab Aula 03 - Ampliando seu portfólio + próximos passos
 
-## 🚀 Tecnologias
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
