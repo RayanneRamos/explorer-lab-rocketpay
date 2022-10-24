@@ -184,6 +184,11 @@ const cardNumberPattern = {
     },
     {
       mask: '0000 0000 0000 0000',
+      regex:  /^01[8-9]\d{0,12}/,
+      cardtype: 'c6bank',
+    },
+    {
+      mask: '0000 0000 0000 0000',
       cardtype: 'default',
     },
   ],
