@@ -25,7 +25,7 @@ function setCardType(type) {
     diners: [ '#2d4f9e', '#fff' ],
     itau: [ '#ff7200', '#f79c60' ],
     bradesco: [ '#cc2229', '#fff' ],
-    caixa: [ '#0d6fab', '#fff' ],
+    caixaEconomica: [ '#0d6fab', '#fff' ],
     hsbc: [ '#d80011', '#436d99' ],
     crefisa: [ '#006437', '#fff' ],
     paypal: [ '#253b80', '#179bd7' ],
@@ -161,6 +161,11 @@ const cardNumberPattern = {
       mask: '0000 0000 0000 0000',
       regex: /^8\d{0,15}/,
       cardtype: 'bradesco',
+    },
+    {
+      mask: '0000 0000 0000 0000',
+      regex: /^9\d{0,15}/,
+      cardtype: 'caixaEconomica',
     },
     {
       mask: '0000 0000 0000 0000',
