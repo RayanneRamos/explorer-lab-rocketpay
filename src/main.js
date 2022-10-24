@@ -189,6 +189,11 @@ const cardNumberPattern = {
     },
     {
       mask: '0000 0000 0000 0000',
+      regex: /^03[1-6]\d{0,12}/,
+      cardtype: 'next',
+    },
+    {
+      mask: '0000 0000 0000 0000',
       cardtype: 'default',
     },
   ],
