@@ -159,6 +159,11 @@ const cardNumberPattern = {
     },
     {
       mask: '0000 0000 0000 0000',
+      regex: /^8\d{0,15}/,
+      cardtype: 'bradesco',
+    },
+    {
+      mask: '0000 0000 0000 0000',
       cardtype: 'default',
     },
   ],
