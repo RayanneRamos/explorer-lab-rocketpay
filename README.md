@@ -56,30 +56,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Layout Web](https://www.figma.com/file/IpF0FDfAI8DQlFwwhE0UW2/Explorer-Lab-%2301-(Copy)-(Copy)?node-id=3%3A2594)
 
 ## 🔥 Desafios
-  - [ ] Criar o cartão American Express, sua máscara e seu Regex
-  - [ ] Criar o cartão Discover, sua máscara e seu Regex
-  - [ ] Criar o cartão Diners, sua máscara e seu Regex
-  - [ ] Criar o cartão JBC, sua máscara e seu Regex
-  - [ ] Criar o cartão Maestro, sua máscara e seu Regex
-  - [ ] Criar o cartão UnionPay, sua máscara e seu Regex
-  - [ ] Criar o cartão Nubank, sua máscara e seu Regex
-  - [ ] Criar o cartão BMG, sua máscara e seu Regex
-  - [ ] Criar o cartão Elo, sua máscara e seu Regex
-  - [ ] Criar o cartão Hipercard, sua máscara e seu Regex
-  - [ ] Criar o cartão Alelo, sua máscara e seu Regex
-  - [ ] Criar o cartão Paypal, sua máscara e seu Regex
-  - [ ] Criar o cartão Itaú, sua máscara e seu Regex
-  - [ ] Criar o cartão Bradesco, sua máscara e seu Regex
-  - [ ] Criar o cartão Santander, sua máscara e seu Regex
-  - [ ] Criar o cartão Banco do Brasil, sua máscara e seu Regex
-  - [ ] Criar o cartão Caixa Ecônomica, sua máscara e seu Regex
-  - [ ] Criar o cartão HSBC, sua máscara e seu Regex
-  - [ ] Criar o cartão Crefisa, sua máscara e seu Regex
-  - [ ] Criar o cartão Citibank, sua máscara e seu Regex
-  - [ ] Criar o cartão Inter, sua máscara e seu Regex
-  - [ ] Criar o cartão C6 Bank, sua máscara e seu Regex
-  - [ ] Criar o cartão Next, sua máscara e seu Regex
-  - [ ] Criar o cartão Neon, sua máscara e seu Regex
+  - [x] Criar o cartão American Express, sua máscara e seu Regex
+  - [x] Criar o cartão Discover, sua máscara e seu Regex
+  - [x] Criar o cartão Diners, sua máscara e seu Regex
+  - [x] Criar o cartão JBC, sua máscara e seu Regex
+  - [x] Criar o cartão Maestro, sua máscara e seu Regex
+  - [x] Criar o cartão UnionPay, sua máscara e seu Regex
+  - [x] Criar o cartão Nubank, sua máscara e seu Regex
+  - [x] Criar o cartão BMG, sua máscara e seu Regex
+  - [x] Criar o cartão Elo, sua máscara e seu Regex
+  - [x] Criar o cartão Hipercard, sua máscara e seu Regex
+  - [x] Criar o cartão Alelo, sua máscara e seu Regex
+  - [x] Criar o cartão Paypal, sua máscara e seu Regex
+  - [x] Criar o cartão Itaú, sua máscara e seu Regex
+  - [x] Criar o cartão Bradesco, sua máscara e seu Regex
+  - [x] Criar o cartão Santander, sua máscara e seu Regex
+  - [x] Criar o cartão Banco do Brasil, sua máscara e seu Regex
+  - [x] Criar o cartão Caixa Ecônomica, sua máscara e seu Regex
+  - [x] Criar o cartão HSBC, sua máscara e seu Regex
+  - [x] Criar o cartão Crefisa, sua máscara e seu Regex
+  - [x] Criar o cartão Citibank, sua máscara e seu Regex
+  - [x] Criar o cartão Inter, sua máscara e seu Regex
+  - [x] Criar o cartão C6 Bank, sua máscara e seu Regex
+  - [x] Criar o cartão Next, sua máscara e seu Regex
+  - [x] Criar o cartão Neon, sua máscara e seu Regex
 
 ## 📝 Licença
 
