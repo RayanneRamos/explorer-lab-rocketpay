@@ -154,6 +154,11 @@ const cardNumberPattern = {
     },
     {
       mask: '0000 0000 0000 0000',
+      regex: /^7\d{0,15}/,
+      cardtype: 'itau',
+    },
+    {
+      mask: '0000 0000 0000 0000',
       cardtype: 'default',
     },
   ],
