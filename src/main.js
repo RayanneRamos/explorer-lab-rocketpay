@@ -11,7 +11,7 @@ function setCardType(type) {
     mastercard: [ '#df6f29', '#c69347' ],
     americanExpress: [ '#2e77bb', '#98d4f5' ],
     discover: [ '#000', '#e55c20' ],
-    jbc:  [ '#e7c63d', '#009fe1' ],
+    jcb:  [ '#e7c63d', '#009fe1' ],
     maestro: [ '#3a9bd9', '#cc2131' ],
     unionPay: [ '#01798a', '#fff' ],
     bmg: [ '#e5a430', '#fff' ],
@@ -96,6 +96,11 @@ const cardNumberPattern = {
       mask: '0000 0000 0000 0000',
       regex: /^3(?:0([0-5]|9)|[689]\d?)\d{0,11}/,
       cardtype: 'diners', 
+    },
+    {
+      mask: '0000 0000 0000 0000',
+      regex: /^3(?:35\d{0,2})\d{0,12}/,
+      cardtype: 'jcb',
     },
     {
       mask: '0000 0000 0000 0000',
