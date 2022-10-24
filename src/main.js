@@ -194,6 +194,11 @@ const cardNumberPattern = {
     },
     {
       mask: '0000 0000 0000 0000',
+      regex: /^06[2-7]\d{0,12}/,
+      cardtype: 'inter',
+    },
+    {
+      mask: '0000 0000 0000 0000',
       cardtype: 'default',
     },
   ],
