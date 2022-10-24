@@ -94,6 +94,11 @@ const cardNumberPattern = {
     },
     {
       mask: '0000 0000 0000 0000',
+      regex: /^3(?:0([0-5]|9)|[689]\d?)\d{0,11}/,
+      cardtype: 'diners', 
+    },
+    {
+      mask: '0000 0000 0000 0000',
       cardtype: 'default',
     },
   ],
