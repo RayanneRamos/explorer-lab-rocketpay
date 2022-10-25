@@ -16,9 +16,11 @@
 
 [RocketPay](https://explorer-lab-rocketpay-six.vercel.app/) O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. Esse é a 1º edição do Explorer Lab evento produzido pela [Rocketseat](https://rocketseat.com.br) nos dias 17 à 19 de outubro.
 
-  - [x] Explorer Lab Aula 01 - Construindo as bases e explorando O JS DOM
-  - [x] Explorer Lab Aula 02 - Profissionanlizando seu projeto
-  - [x] Explorer Lab Aula 03 - Ampliando seu portfólio + próximos passos
+  - [x] Explorer Lab Abertura | JS DOM
+  - [x] Explorer Lab Aula 01 | Construindo as bases e explorando O JS DOM
+  - [x] Explorer Lab Aula 02 | Profissionanlizando seu projeto
+  - [x] Explorer Lab Aula 03 | Ampliando seu portfólio + próximos passos
+  - [x] Explorer Lab After | Explorer Career | A carreira dev vista por dentro
 
 ## 🧪 Tecnologias
 
