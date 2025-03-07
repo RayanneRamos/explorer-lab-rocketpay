@@ -22,6 +22,16 @@
   - [x] Explorer Lab Aula 03 | Ampliando seu portfólio + próximos passos
   - [x] Explorer Lab After | Explorer Career | A carreira dev vista por dentro
 
+## 🌟 Funcionalidades
+
+1. **Máscaras de Input**: As entradas de dados, como o número do cartão, data de validade e CPF, têm máscaras aplicadas para garantir que o usuário insira as informações no formato correto. 
+2. **Atualização Dinâmica**: Utilizando o DOM, a interface é atualizada dinamicamente com as informações inseridas, como o nome do titular do cartão e o número do cartão. 
+3. **Validação de Dados**: O sistema também inclui validação para garantir que as informações fornecidas sejam consistentes e corretas.
+4. **Máscara de Cartão**: A entrada do número do cartão de crédito é formatada para exibir automaticamente os espaços entre os grupos de números.
+5. **Campo de Data de Validade**: O campo de data é automaticamente preenchido no formato correto, impedindo erros de digitação.
+6. **Validação do Formulário**: Validações para garantir que o formulário seja preenchido corretamente antes de ser submetido.
+
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
